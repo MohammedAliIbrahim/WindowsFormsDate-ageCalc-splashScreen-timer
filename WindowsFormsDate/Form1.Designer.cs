@@ -81,9 +81,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(374, 326);
+            this.button1.Location = new System.Drawing.Point(370, 326);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(79, 23);
             this.button1.TabIndex = 4;
             this.button1.Text = "go to form2";
             this.button1.UseVisualStyleBackColor = true;
